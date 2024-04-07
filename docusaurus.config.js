@@ -14,11 +14,11 @@ const config = {
   url: 'https://jlbenya.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/caso07/',
 
   // GitHub pages deployment config.
-  organizationName: 'chatbuho',
-  projectName: 'documentacion',
+  organizationName: 'JLBenya',
+  projectName: 'caso07',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
